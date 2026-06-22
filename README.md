@@ -1,7 +1,7 @@
 # Hi, I'm Angel Kuraru
 
 ## About Me
-- I'm currently learning AI, GitHub and using Visual Studio.
+- I'm currently learning AI, GitHub and using Visual Studio. 
 - I'm interested in AI.
 - I'm looking to collaborate on beginner-friendly open source projects.
 
